@@ -1,4 +1,4 @@
-def get_welcome_message(name):
+def get_welcome_message(Eric):
     return f"Welcome, {name}! We're excited to have you here! 🎉"
 
 def main():
